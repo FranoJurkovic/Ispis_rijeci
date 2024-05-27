@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+#tipka{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+#tipka,#unos{
+    padding: 8px 20px;
+    margin: 8px;
+    border-radius: 4px;
+}
